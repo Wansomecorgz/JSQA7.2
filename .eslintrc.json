@@ -1,0 +1,15 @@
+{
+    "plugins" : [
+      "@typescript-eslint",
+      "prettier"
+    ],
+  
+    "extends" : [
+      "standart",
+      "prettier"
+    ],
+  
+  "rules": {
+    "no-debugger":"off"
+  }
+  }
